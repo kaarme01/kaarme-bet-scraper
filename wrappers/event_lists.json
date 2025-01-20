@@ -1,0 +1,38 @@
+{
+    "veikkaus": {
+        "leagues": {
+            "Premier League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-2-1_Valioliiga",
+            "Brazil League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-37-1_Brasilian%20liiga",
+            "LaLeague": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?timerange=1&t=1-5-1_LaLiga",
+            "Portugal League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-12-1_Portugalin%20liiga",
+            "UCL": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-17-1_UCL",
+            "Championship": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-2-2_Mestaruussarja",
+            "Eredivisie": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-6-1_Hollannin%20liiga",
+            "Serie B": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-3-2_Serie%20B"
+        },
+        "others": {
+            "All Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1",
+            "Today's Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1&timerange=1",
+            "Upcoming Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1&timerange=2",
+            "Live Betting": "https://www.veikkaus.fi/fi/vedonlyonti/liveveto?laji"
+
+        }
+    },
+    "coolbet": {
+        "leagues": {
+            "Premier League": "https://www.coolbet.com/en/sports/football/england/premier-league",
+            "Brazil League": "https://www.coolbet.com/en/sports/football/brazil",
+            "LaLeague": "https://www.coolbet.com/en/sports/football/spain/la-liga",
+            "Championship": "https://www.coolbet.com/en/sports/football/england/championship",
+            "UCL": "https://www.coolbet.com/en/sports/football/europe/uefa-champions-league",
+            "Eredivisie": "https://www.coolbet.com/en/sports/football/netherlands/eredivisie",
+            "Serie B": "https://www.coolbet.com/en/sports/football/italy/serie-b",
+            "Portgular League": "https://www.coolbet.com/en/sports/football/portugal/liga-zon-sagres"
+        },
+        "others": {
+            "Soon 1": "https://www.coolbet.com/en/sports/soon/1",
+            "Soon 6": "https://www.coolbet.com/en/sports/soon/6",
+            "Live": "https://www.coolbet.com/en/sports/live"
+        }
+    }
+}

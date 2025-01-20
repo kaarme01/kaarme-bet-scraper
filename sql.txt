@@ -1,0 +1,52 @@
+getTopOutcomesForMarket
+select outcome price and outcome_id
+WHERE 
+using appropriate logic for bet type select appropriate outcome descriptions  and points (for each event and market)
+top prices and limit to x 
+in alternate version get spread
+
+from:
+select markets where event_id is same and bet_type is same and there are at least 2 results
+and user is none or market bookmaker is in (user's list of bookmakers)
+
+for each market returned
+for each outcome returned 
+compare to sharp odds
+run arb formula
+
+middling:
+find all totals spreads where under  price is higher than over price
+find all markets where there's a point that achieves both point spreads
+
+if negative, x>|a|
+x is home points over away
+
+if positive, b-x > 0 
+
+x>|a|
+
+b-x > 0 
+
+{x>abs(a), abs(b)>x}
+
+|a| < x < |b|
+
+is |b| - |a| >=1s
+
+
+
+to get spreads:
+get outcomes from event 
+
+
+
+
+
+
+
+for each event
+for each market where (event_id and event_type_id is the same) at least 2 results
+using appropriate logic for bet type select appropriate outcome descriptions
+and points
+
+

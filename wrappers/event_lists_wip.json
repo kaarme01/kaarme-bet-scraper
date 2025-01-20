@@ -1,0 +1,47 @@
+{
+    "veikkaus": {
+        "leagues": {
+            "Premier League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-2-1_Valioliiga",
+            "Brazil League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-37-1_Brasilian%20liiga",
+            "LaLeague": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?timerange=1&t=1-5-1_LaLiga",
+            "Portugal League": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-12-1_Portugalin%20liiga",
+            "German Cup": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?t=1-4-6_Saksan%20cup"
+        },
+        "others": {
+            "All Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1",
+            "Today's Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1&timerange=1",
+            "Upcoming Bets": "https://www.veikkaus.fi/fi/vedonlyonti/pitkaveto?pelilista=1&timerange=2",
+            "Live Betting": "https://www.veikkaus.fi/fi/vedonlyonti/liveveto?laji"
+        }
+    },
+    "coolbet": {
+        "leagues": {
+            "Serie A": "https://coolbet.com/serie-a",
+            "Bundesliga": "https://coolbet.com/bundesliga"
+        },
+        "others": {
+            "Bonuses": "https://coolbet.com/bonuses",
+            "Support": "https://coolbet.com/support"
+        }
+    },
+    "pinnacle": {
+        "leagues": {
+            "Ligue 1": "https://pinnacle.com/ligue-1",
+            "Eredivisie": "https://pinnacle.com/eredivisie"
+        },
+        "others": {
+            "Offers": "https://pinnacle.com/offers",
+            "FAQ": "https://pinnacle.com/faq"
+        }
+    },
+    "nubet": {
+        "leagues": {
+            "Champions League": "https://nubet.com/champions-league",
+            "MLS": "https://nubet.com/mls"
+        },
+        "others": {
+            "New Arrivals": "https://nubet.com/new-arrivals",
+            "Contact Us": "https://nubet.com/contact-us"
+        }
+    }
+}
