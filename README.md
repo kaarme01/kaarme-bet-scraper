@@ -1,4 +1,4 @@
-# Kaarme's betting scraper 
+# Käärme's betting scraper 
 
 This project is an set of scripts and a design for a database for scraping multiple sportsbooks and
 structuring and analyzing the information.
