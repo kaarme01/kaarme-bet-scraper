@@ -1,6 +1,6 @@
 # Käärme's betting scraper 
 
-This project is an set of scripts and a design for a database for scraping multiple sportsbooks and
+This project is a set of scripts and a design for a database for scraping multiple sportsbooks and
 structuring and analyzing the information.
 
 The aim of the project is to create a framework with similar functionality to sites like oddsjam 
